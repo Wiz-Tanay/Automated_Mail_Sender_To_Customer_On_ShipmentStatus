@@ -1,7 +1,7 @@
 {
   "name": "MajorProj",
   "projectId": "db470730-c361-4050-ad5b-bc25787ce3e7",
-  "description": "Tanay, Soumya, Supriyo, Anushka, Souvik",
+  "description": "",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.1]",
@@ -58,4 +58,5 @@
   "templateProjectData": {},
   "publishData": {},
   "targetFramework": "Windows"
+
 }
